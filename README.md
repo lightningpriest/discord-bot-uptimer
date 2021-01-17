@@ -1,2 +1,5 @@
-# bot-uptimer
-This script will be trigger your BOT active 24/7
+# Bot Uptimer  
+This script will allow your Bot Live Sites to uptime per-minutes 24/7.
+### Installation  
+Open [Google Script](https://script.google.com) then create new project and paste the script, replace *"Live Link"* with your live sites. (Ex : "bot234.woo.repl.co").  
+Set the timer in Google Script to per-minutes, then run and close.  
